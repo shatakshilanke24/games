@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="games.css">
     <title>Document</title>
+    <style>
     *{
     margin:0%;
     padding:0%;
@@ -97,6 +98,8 @@
           margin-top: 20px;
           
       }
+    </style>
+    </head>
 <body>
     <div class="container">
         <h2>Pixel Relic Games</h2>
@@ -126,9 +129,5 @@
 
         }
         </script>
-        
-
-
-    
-</body>
+        </body>
 </html>
