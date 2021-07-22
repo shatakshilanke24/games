@@ -118,7 +118,6 @@
     <div class="footer">
         made with ❤️<br>
         cartoon city vectors by vecteezy
-    </div>
     
     </div>
     </form>
